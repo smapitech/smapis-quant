@@ -10,3 +10,4 @@ Reference set for the architecture blueprints created for Smapis Quant OS.
 - [Exchange Integration Architecture](./exchange-integration-architecture.md)
 - [Market Scanner and Opportunity Engine Architecture](./market-scanner-opportunity-engine-architecture.md)
 - [AI Engine, SQIS & AI Trade Committee Architecture](./ai-engine-sqis-ai-trade-committee-architecture.md)
+- [Module 7 - Capital Preservation Engine, Trading Guardrails & Safety Architecture](./07-capital-preservation-engine.md)
