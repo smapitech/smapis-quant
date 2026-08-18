@@ -4,7 +4,7 @@
 
 **SMAPIS Quant** is an AI-assisted market-intelligence platform developed by **SMAPIS Technologies — Smart Multi-Agent Platform & Intelligent Systems**.
 
-The platform is designed to help users discover, evaluate, simulate and monitor market opportunities using a combination of structured analytics, risk controls, historical replay, portfolio intelligence and AI-supported decision systems.
+The platform is designed to help users discover, evaluate, simulate and monitor market opportunities using a combination of structured analytics, risk controls, historical replay, portfolio intelligence and AI-supported decision systems..
 
 SMAPIS Quant is being developed as a research and intelligence platform rather than a simple signal generator.
 
